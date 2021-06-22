@@ -57,13 +57,12 @@ section {
     padding: 60px;
 }
 .hero{
-    background-image: url("../images/hero-bg.jpeg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
 }
-.her
 .hero-form {
     background-color: #fce138;
     padding: 20px;
